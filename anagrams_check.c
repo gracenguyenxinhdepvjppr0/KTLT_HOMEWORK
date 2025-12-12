@@ -41,8 +41,4 @@ int main()
 
     return 0;
 }
-=======
-bool anagrams_check(char *s1, *s2)
-{
-}
->>>>>>> dfe3ef1865573f9fbaaf391c5df9bc2aff8c5490
+
