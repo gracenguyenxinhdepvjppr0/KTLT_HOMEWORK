@@ -3,6 +3,7 @@
 
 char *str1, *str2;
 
+<<<<<<< HEAD
 bool anagram(char *s1, *s2)
 {
     int count[256] = {0};
@@ -40,3 +41,8 @@ int main()
 
     return 0;
 }
+=======
+bool anagrams_check(char *s1, *s2)
+{
+}
+>>>>>>> dfe3ef1865573f9fbaaf391c5df9bc2aff8c5490
