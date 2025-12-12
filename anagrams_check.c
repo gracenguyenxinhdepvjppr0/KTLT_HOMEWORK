@@ -3,6 +3,6 @@
 
 char *str1, *str2;
 
-char *anagrams(char *s1, *s2)
+bool anagrams_check(char *s1, *s2)
 {
 }
